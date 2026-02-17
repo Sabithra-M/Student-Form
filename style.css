@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: white;
+}
+.poppins-extrabold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+  margin: 30px;
+}
+#student-form{
+   padding: 40px;
+}
+#student-form table{
+    width: 50%;
+    background-color: rgb(92, 48, 92);
+    
+}
+#student-form td{
+    padding: 10px;
+    color:white;
+}
+#student-form input{
+    background-color: transparent;
+    border: none;
+    color: white;
+    
+}
+#student-form select{
+    background-color: transparent;
+    border: none;
+    color: white;
+    width: 100%;
+}
+#student-form option{
+    color: black;
+}
+.one{
+    width: 100%;
+}
+#student-form input:focus{
+    outline: none;
+}
+#student-form select:focus{
+    outline: none;
+}
+#save-button{
+    width: 100%;
+    background-color: aqua;
+    padding: 10px;
+    border: none;
+}
+#student-form input::placeholder{
+    color: white;
+}
+#student-table{
+    width: 70%;
+    border: none;
+    background-color: maroon;
+    
+   
+    
+}
+#student-table thead{
+    color: white;
+    
+    
+    
+}
+#student-table th{
+    padding: 5px;
+    border: none;
+    
+}
+#student-table tbody{
+   
+    background-color: white;
+}
+#student-table td{
+    padding: 5px;
+    border: none;
+    
+}
+#student-table button{
+    width: 100%;
+    background-color:purple;
+    padding: 5px;
+    border: none;
+}
