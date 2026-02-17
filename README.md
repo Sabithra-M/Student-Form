@@ -5,7 +5,7 @@
 A responsive student form web application that allows users to add, display, and delete student records efficiently. This project demonstrates form handling, data validation, and CRUD operations using HTML, CSS, and JavaScript. It helps manage student information through a simple and user-friendly interface.
 
 ## Live Demo
-
+https://sabithra-m.github.io/Student-Form/
 
 ## 🚀Features
 
